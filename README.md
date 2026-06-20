@@ -77,7 +77,7 @@
 
 | 🗂️ Project | 📝 Description | 🛠️ Stack |
 |:-----------|:--------------|:---------|
-| [🗒️ CLI Task Manager](https://github.com/Maxigiraldo/Gestor_tareas.git) | Command-line task manager built with OOP Python — my first published portfolio project | `Python` · `OOP` · `Data Structures` |
+| [🗒️ CLI Task Manager](https://github.com/Maxigiraldo/Gestor_tareas.git) | Command-line task manager  | `Python` |
 
 
 ---
